@@ -1,4 +1,4 @@
 # jubilant-dollop
-SteveOkoye committed to learning on GitHub
-Improving coding skills
+SteveOkoye committed to learning and improving coding skills on GitHub
+
 
